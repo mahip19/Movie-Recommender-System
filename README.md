@@ -1,4 +1,4 @@
-# Move-Recommender-System
+# Movie-Recommender-System
 Visit this project using [this link](https://movie-recommendd.herokuapp.com/).<br>
 <h2>A content-based movie recommender system</h2><br>
 
